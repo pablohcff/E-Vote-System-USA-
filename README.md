@@ -1,7 +1,7 @@
 # VERSÃO EM PORTUGUÊS 
 
 # E-Vote-System-USA-
-Programa que simula as eleições americanas dentro de uma seção caso fosse implementada uma urna eletrônica para as votações presidenciais
+Programa que simula uma urna eletrônica para as eleições americanas dentro de uma seção caso fosse implementada uma urna eletrônica para as votações presidenciais
 
 ## Descrição
 Programa que simula as eleições americanas dentro de uma seção caso fosse implementada uma urna eletrônica para as votações presidenciais, permitindo que os usuários votem e vejam os resultados. A aplicação verifica se o eleitor é elegível (se faz parte daquela seção eleitoral através do seu ID ou se já votou), registra os votos e exibe os resultados finais.
@@ -33,7 +33,7 @@ Na execução do código, note que existem 2 opções, votar e mostrar os result
 # ENGLISH VERSION
 
 # E-Vote-System-USA
-Program that simulates American elections within a section as if an electronic voting machine were implemented for presidential voting.
+Program that simulates an electronic voting machine to American elections within a section as if an electronic voting machine were implemented for presidential voting.
 
 # Description
 This program simulates American elections within a section, as if an electronic voting machine were implemented for presidential voting, allowing users to cast their votes and view the results. The application checks if the voter is eligible (if they are part of that electoral section through their ID or if they have already voted), records the votes, and displays the final results.
