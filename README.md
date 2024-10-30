@@ -30,8 +30,6 @@ Na execução do código, note que existem 2 opções, votar e mostrar os result
 - Se quiser adicionar mais informações, como exemplos de resultados ou capturas de tela, isso também pode ser útil para os usuários.
 - Considere adicionar uma seção sobre como contribuir, caso alguém queira ajudar com o projeto.
 
-Com essas alterações, seu `README.md` estará bem estruturado e pronto para ser publicado! Se precisar de mais alguma coisa, é só avisar.
-
 
 ------------------------------------------------------------------------------
 
