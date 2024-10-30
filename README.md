@@ -27,9 +27,6 @@ Na execução do código, note que existem 2 opções, votar e mostrar os result
 
 ### Dicas Finais
 - Certifique-se de que o seu arquivo `evs.py` esteja na raiz do repositório para que o comando `python evs.py` funcione corretamente.
-- Se quiser adicionar mais informações, como exemplos de resultados ou capturas de tela, isso também pode ser útil para os usuários.
-- Considere adicionar uma seção sobre como contribuir, caso alguém queira ajudar com o projeto.
-
 
 ------------------------------------------------------------------------------
 
@@ -65,7 +62,6 @@ git clone https://github.com/pablohcff/E-Vote-System-USA-.git
 # Final Tips
 
 Make sure your evs.py file is in the root of the repository so that the command python evs.py works correctly.
-If you want to add more information, such as examples of results or screenshots, that could also be helpful for users.
-Consider adding a section on how to contribute, in case anyone wants to help with the project.
-With these changes, your README.md will be well-structured and ready to be published! If you need anything else, just let me know.
+
+
 
